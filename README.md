@@ -1,4 +1,4 @@
-# Vue.js Web Application Example
+# Vue.js Web Application Example Todo list Front-end
 
 This is a modern Vue.js 3 frontend application example that demonstrates a basic web application setup with Vite.
 
