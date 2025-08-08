@@ -12,7 +12,7 @@ This project runs on a Debian 12 system with Node.js and Vue.js 3.4.29, which is
 
 ## Project Execution
 
-**Development mode:** For normal development environment, simply enter Devbox and run `bash entrypoint.sh` in the terminal. This will start the Vite development server with hot-reload enabled.
+**Development mode:** run `node app.js` 
 
 **Production mode:** After release, the project will be automatically packaged into a Docker image and deployed according to the `entrypoint.sh` script with production parameters (run `bash entrypoint.sh production`). This will build optimized static files and serve them using Vite's preview server.
 
